@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I am Varshith 
-I am a **Backend developer** and curious to learn about **Web 3.0**<br/><br>
-Passionate to learn **Data structures and Algorithms** and I love problem solving<br/>
+I am a **Backend developer** and curious to learn about **Web 3.0**<br/>
+Passionate to learn **Data structures and Algorithms** and I love problem solving<br/><br>
 Check out my Data structures and Algorithms repo<br> https://github.com/voletivarshith/Data-Structures-and-Algorithms
 <!--
 **voletivarshith/voletivarshith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
